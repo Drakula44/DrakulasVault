@@ -1,0 +1,12 @@
+![[Definicija verovatnoce]]
+![[Definicija uslovne verovatnoca]]
+![[Teorema totalne verovatnoce]]
+![[Bajesova teorema]]
+![[Slucajna promenljiva]]
+
+![[Funkcija raspodele slucajne promenljive]]
+![[funkcija gustine verovatnoce]]
+![[matematicko ocekivanje]]
+![[varijansa]]
+![[standardna devijacija]]
+![[Moment n-tog reda]]
