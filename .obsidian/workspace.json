@@ -1,0 +1,289 @@
+{
+  "main": {
+    "id": "943385d150614c1a",
+    "type": "split",
+    "children": [
+      {
+        "id": "99a1d49bb20be9bb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c76123347804673a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TODOs.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "TODOs"
+            }
+          },
+          {
+            "id": "646a63123e4d04cf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "instalacija.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "instalacija"
+            }
+          },
+          {
+            "id": "afe6d8b368fcbd81",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled 1"
+            }
+          },
+          {
+            "id": "60a3c93c94a36a09",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled 2"
+            }
+          },
+          {
+            "id": "bba0fa4b1929643f",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.4"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.4"
+            }
+          },
+          {
+            "id": "c6239c9b7e37e55d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Project ideas.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Project ideas"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "57b4031b5f6d8988",
+    "type": "split",
+    "children": [
+      {
+        "id": "389514fb9754b923",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "091b79141c8b0f8f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "3b8a206e9635e70c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "776db8eeddc5e49b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 591.5026054382324
+  },
+  "right": {
+    "id": "2fa70447b4030d2f",
+    "type": "split",
+    "children": [
+      {
+        "id": "450fda3c7de8ee80",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d0fd461cb25e5bc3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Project ideas.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Project ideas"
+            }
+          },
+          {
+            "id": "991341153c085036",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Project ideas.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Project ideas"
+            }
+          },
+          {
+            "id": "ff58b1b987c29583",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "6e14bfdfb23b0c68",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Project ideas.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Project ideas"
+            }
+          },
+          {
+            "id": "2a5ee818335c8408",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 711.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "2a5ee818335c8408",
+  "lastOpenFiles": [
+    "Project ideas.md",
+    "Untitled 1.md",
+    "Untitled 2.md",
+    "Pasted image 20240928120052.png",
+    "Pasted image 20240928115955.png",
+    "Pasted image 20240928115749.png",
+    "Pasted image 20240928115709.png",
+    "Pasted image 20240928115617.png",
+    "instalacija.md",
+    "WidgetTODO.md",
+    "Untitled.md",
+    "TODOs.md",
+    "ZSH config.md",
+    "Praksa.md",
+    "sezona 7.md",
+    "05 Fakultet/SAU 1.md",
+    "08 Notes/OTE.md",
+    "04 Thoughts/20240909.md",
+    "04 Thoughts/20240906.md",
+    "04 Thoughts/20240904.md",
+    "WantToListen.md",
+    "Goal.md",
+    "Olimpijada.md",
+    "08 Notes/SOM/Predavanje 2.md",
+    "08 Notes/Math/Verovatnoca/Uslovna mera entropije u odnosu na atribut.md",
+    "08 Notes/Math/Verovatnoca/Transformacija beljenja slucajnog vektora.md",
+    "08 Notes/SOM/Statisticko rastojanje slucajnog vektora.md",
+    "08 Notes/SOM/Statiske slucajnih vektora.md",
+    "08 Notes/Math/Verovatnoca/Ortogonalna transformacija slucajnog vektora.md",
+    "08 Notes/Math/Verovatnoca/normalna raspodela slucajnog vektora.md",
+    "08 Notes/SOM/Mera entropije.md",
+    "09 Config/latex_sniptes.js",
+    "08 Notes/Math/Verovatnoca",
+    "08 Notes/Math",
+    "01 Action Items/Daily",
+    "08 Notes/SOM",
+    "08 Notes/SSE",
+    "05 Fakultet",
+    "08 Notes",
+    "01 Action Items/Working env",
+    "01 Action Items/Fakultet"
+  ]
+}
